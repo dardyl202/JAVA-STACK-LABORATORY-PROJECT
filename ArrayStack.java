@@ -2,13 +2,13 @@
    array (maximum capacity of 10) and provides push, pop, peek, isEmpty, isFull,
    size and clear. Contains NO GUI code.
 
-   Programmed by: <your name> <course> <cn> <subject>
+   Programmed by: <TABAT, KATAG, TINGAL, PUNDOGAR, BARNES> <BSIT2> <cn48143> <DATA STRUCTURE>
 
-   Last Modified: <date of latest revision>
+   Last Modified: <10/20/26>
 
    Version: 1.0
 
-   Acknowledgements: <list of sites and/or generative AI used, with the prompt>
+   Acknowledgements: <We used claude Ai to enhaced our code and to find some errors and also we ask for some advice to make our code/project more presentable.  >
 */
 
 import java.util.Arrays;
