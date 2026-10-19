@@ -2,13 +2,13 @@
    the methods of ArrayStack (push, pop, peek, isEmpty, clear, size) and redraws
    the stack after every operation. The GUI never touches the stack's internal array.
 
-   Programmed by: <your name> <course> <cn> <subject>
+   Programmed by: <TABAT, KATAG, TINGAL, PUNDOGAR, BARNES> <BSIT2> <CN48143> <DATA STRUCTURE>
 
-   Last Modified: <date of latest revision>
+   Last Modified: <10-20-26>
 
    Version: 1.0
 
-   Acknowledgements: <list of sites and/or generative AI used, with the prompt>
+   Acknowledgements: <We used claude Ai to help enhanced our code/program, and we ask for advice to make our code more presentable. Also we ask Ai to find some error in our code that we can't find like for example, syntax error or logical error.>
 */
 
 import javax.swing.*;
