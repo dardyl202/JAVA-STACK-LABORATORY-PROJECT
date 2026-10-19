@@ -2,13 +2,13 @@
    The newest element is drawn at the top and marked with "TOP". Unused slots
    are drawn as dashed outlines. This class only DRAWS a snapshot it is given.
 
-   Programmed by: <your name> <course> <cn> <subject>
+   Programmed by: <TABAT, KATAG, TINGAL, PUNDOGAR, BARNES> <BSIT2> <cn48143> <DATA STRUCTURE>
 
-   Last Modified: <date of latest revision>
+   Last Modified: <10-20-26>
 
    Version: 1.0
 
-   Acknowledgements: <list of sites and/or generative AI used, with the prompt>
+   Acknowledgements: <We used claude Ai to help enhanced our code/program, and we ask for advice to make our code more presentable. Also we ask Ai to find some error in our code that we can't find like for example, syntax error or logical error.>
 */
 
 import javax.swing.*;
