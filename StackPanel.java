@@ -19,6 +19,7 @@ public class StackPanel extends JPanel {
     private static final Color BLOCK = new Color(66, 133, 244);
     private static final Color TOP_BLOCK = new Color(244, 126, 32);
     private static final Color PEEK_BLOCK = new Color(255, 214, 10);
+    private static final Color BACKGROUND = new Color(238, 242, 246);
 
     private int[] contents = new int[0];
     private int capacity;
@@ -26,8 +27,8 @@ public class StackPanel extends JPanel {
 
     public StackPanel(int capacity) {
         this.capacity = capacity;
-        setPreferredSize(new Dimension(320, 560));
-        setBackground(Color.WHITE);
+        setPreferredSize(new Dimension(300, 400));
+        setBackground(BACKGROUND);
     }
 
     /** Gives the panel a new snapshot (bottom -> top) and repaints. */
